@@ -50,10 +50,5 @@
             </plugin>
         </plugins>
     </build>
-    <distributionManagement>
-      <repository>
-        <id>maven-hosted</id>
-        <url>http://35.200.231.97:8081/repository/maven-hosted/</url>
-      </repository>
-    </distributionManagement>
+
 </project>
